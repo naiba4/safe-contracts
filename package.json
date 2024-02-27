@@ -75,7 +75,7 @@
     "solc": "0.7.6",
     "solhint": "^3.3.2",
     "solhint-plugin-prettier": "^0.0.5",
-    "solidity-coverage": "^0.7.17",
+    "solidity-coverage": "^0.8.0",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4",
     "yargs": "^16.1.1"
