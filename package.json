@@ -65,7 +65,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-no-only-tests": "^2.4.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "ethereum-waffle": "^3.3.0",
+    "ethereum-waffle": "^4.0.0",
     "ethers": "^5.1.4",
     "hardhat": "^2.2.1",
     "hardhat-deploy": "0.9.2",
@@ -75,7 +75,7 @@
     "solc": "0.7.6",
     "solhint": "^3.3.2",
     "solhint-plugin-prettier": "^0.0.5",
-    "solidity-coverage": "^0.7.17",
+    "solidity-coverage": "^0.8.0",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4",
     "yargs": "^16.1.1"
